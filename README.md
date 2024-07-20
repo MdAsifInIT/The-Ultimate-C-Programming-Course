@@ -11,3 +11,5 @@ To get started with this project:
 2. Make sure you have a C compiler installed (e.g., GCC).
 3. Explore the code samples in the src directory.
 4. Compile and run the programs to see them in action.
+
+Happy Learning!!
