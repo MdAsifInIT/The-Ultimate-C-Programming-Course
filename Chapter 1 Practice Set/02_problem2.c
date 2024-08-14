@@ -1,15 +1,16 @@
 #include <stdio.h>
 
 int main(){
+    
     // Area of circle is pi r sq
     // pi = 3.14
 
-    float radius, pi;
+    float r, pi;
     pi = 3.14;
     printf("Enter the Radius of the Circle \n");
-    scanf("%f", &radius);
+    scanf("%f", &r);
 
-    printf("Area of the circle is %f sq.units", pi*radius*radius);
+    printf("\nArea of the circle with radius %.2f is %.2f sq.units", r, pi*r*r);
 
     return 0;
 }
