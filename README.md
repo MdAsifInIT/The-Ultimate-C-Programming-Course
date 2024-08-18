@@ -1,11 +1,12 @@
 **Introduction**
 
-In this repository, I’m diving into the fundamentals of C. From basic syntax to more complex concepts, I’ll be sharing code snippets, tips, and tricks. Whether you’re a seasoned developer or a fellow learner, feel free to explore and contribute!
+I’m diving into the fundamentals of C. From basic syntax to more complex concepts, I’ll be sharing code snippets, handbook, cheat sheet, tips, and tricks. 
 
+NOTE: The repository is for self-reference.
 
 **Getting Started**
 
-To get started with this project:
+If you feel like getting started with this project:
 
 1. Clone this repository to your local machine.
 2. Make sure you have a C compiler installed (e.g., GCC).
