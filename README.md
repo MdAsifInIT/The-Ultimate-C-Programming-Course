@@ -1,6 +1,8 @@
 **Introduction**
 
-I’m diving into the fundamentals of C. From basic syntax to more complex concepts, I’ll be sharing code snippets, handbook, cheat sheet, tips, and tricks. 
+I’m diving into the fundamentals of C. From basic syntax to more complex concepts. 
+
+The repository has code snippets, handbook, cheat sheet, tips, and tricks. 
 
 NOTE: The repository is for self-reference.
 
@@ -13,4 +15,4 @@ If you feel like getting started with this project:
 3. Explore the code samples in the src directory.
 4. Compile and run the programs to see them in action.
 
-Happy Learning!!
+Enjoy!
