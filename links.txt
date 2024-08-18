@@ -1,2 +1,2 @@
 Notes: https://www.codewithharry.com/notes/
-Cheatsheet: https://www.codewithharry.com/blogpost/c-cheatsheet/
+C Cheat Sheet: https://www.codewithharry.com/blogpost/c-cheatsheet/
