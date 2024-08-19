@@ -3,7 +3,7 @@
 int main(){
 
 /*
-p=prncipal
+p=principal
 r=rate of interest
 t=time period for which money was lent
 */
