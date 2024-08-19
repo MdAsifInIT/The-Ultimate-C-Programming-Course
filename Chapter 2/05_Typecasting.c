@@ -11,7 +11,7 @@ int main() {
     
 
     printf("The original number is %f\n", a);
-    printf("Typecasted Number is %d \n", b);
+    printf("Type-casted Number is %d \n", b);
     printf("Float value is demoted to int eg: the value of c is %d",c);
 
     return 0;
