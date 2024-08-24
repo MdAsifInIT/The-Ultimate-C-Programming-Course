@@ -28,7 +28,7 @@ int main() {
   printf("\nThe score isn't official by BITS, so don't worry!!\n");
 
   if (percentage<=50){
-    printf("But I wonder how someone can score this bad...")
+    printf("But I wonder how someone can score this bad...");
   }
 
   return 0;
