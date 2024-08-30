@@ -4,6 +4,11 @@ to reuse them.
 
 A function is a block of code which performs a particular task. 
 A function can be reused by the programmer in a given program any number of times.
+
+• Execution of a C program starts from main(). 
+• A C program can have more than one function. 
+• Every function gets called directly or indirectly from main().
+
 */
 
 #include <stdio.h>
