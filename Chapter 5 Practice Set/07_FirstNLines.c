@@ -1,8 +1,8 @@
 // Write a program using function to print the following pattern (first n lines)
 #include <stdio.h>
 
-int star(int);
-int star(int a)
+void star(int);
+void star(int a)
 {
     for (int i = 0; i < a; i++)
     {
@@ -17,6 +17,6 @@ int star(int a)
 
 int main()
 {
-    star(99);
+    star(5);
     return 0;
 }
