@@ -1,15 +1,15 @@
 /*   
 
-Program Type: Explaination
+Program Type: Explanation
 Date: 16/07/2024
-Authir: Md Asif                     
+Author: Md Asif                   
 
 */
 
 
 #include <stdio.h>
 // This line is a preprocessor directive that tells the compiler to include the standard input/output library (stdio.h). 
-// It provides functions like printf for printing to the consṇole.
+// It provides functions like printf for printing to the console.
 
 int main (){
 // This is the main function, and it’s the entry point of any C program. 
