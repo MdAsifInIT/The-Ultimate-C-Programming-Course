@@ -17,6 +17,6 @@ void star(int a)
 
 int main()
 {
-    star(5);
+    star(20);
     return 0;
 }
