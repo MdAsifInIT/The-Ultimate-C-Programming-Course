@@ -9,8 +9,8 @@ int main(){
     scanf("%d", &a);
 
     int* ap = &a;
-    printf("The address of the variable 'a' is %p", ap);
-    printf("The value in at address %p is %d", ap, *ap);
+    printf("The address of the variable 'a' is %p.\n", ap);
+    printf("The value in at address %p is %d.\n", ap, *ap);
     
     return 0;
 }
