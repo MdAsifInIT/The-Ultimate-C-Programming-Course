@@ -98,4 +98,4 @@ You can follow along with this project and learn the entire process with **CodeW
 
 ---
 
-Happy Coding! 🎉
+Code is like humor. When you have to explain it, it’s bad.
