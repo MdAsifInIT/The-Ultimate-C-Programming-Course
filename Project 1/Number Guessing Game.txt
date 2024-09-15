@@ -5,4 +5,4 @@ number please”.
 
 When the user guesses the correct number, the program displays the number of 
 guesses the player used to arrive at the number. 
-Hint: Use loop & use a random number generator. 
+Hint: Use loop & use a random number generator.
