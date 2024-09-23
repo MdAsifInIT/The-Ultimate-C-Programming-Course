@@ -1,4 +1,4 @@
-// Complete this show function to display the content of employee.
+// write a show function to display the content of employee.
 #include <stdio.h>
 #include <string.h>
 
