@@ -1,4 +1,4 @@
-// Write a program with a structure representing a complex number.
+// Write problem 5’s structure using ‘typedef’ keywords.
 #include <stdio.h>
 
 typedef struct complex_no {
