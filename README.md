@@ -4,7 +4,7 @@
 I'm diving into the fundamentals of **C programming**, covering everything from basic syntax to more advanced concepts. This repository is a self-reference guide that includes:
 
 - 📚 Code snippets
-- 📄 Handbook & cheat sheets
+- 📄 Handbook, audiobook & cheat sheets
 - 📝 Tips and tricks
 
 > **Note:** This repository is intended for personal reference.
