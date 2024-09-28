@@ -1,7 +1,7 @@
 // Create a two-dimensional vector using structures in C.
 #include <stdio.h>
 
-typedef struct vector{
+typedef struct vector {
     int i;
     int j;
 } vec;

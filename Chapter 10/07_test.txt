@@ -1,0 +1,4 @@
+Once upon a time, a legend thought about starting to learn C programming the next day. 
+Even today, he thought to himself that he would start learning C language tomorrow.
+
+Tomorrow Never Comes!
