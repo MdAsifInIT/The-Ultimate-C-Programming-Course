@@ -16,7 +16,7 @@ int main()
         scanf("%d", &player);
     }
 
-    while (player > 3 || player < 0);
+    while (player < 1 || player > 3);
 
     if (computer == player)
     {
