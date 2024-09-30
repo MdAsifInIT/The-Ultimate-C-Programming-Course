@@ -99,7 +99,7 @@ You can follow along with this project and learn the entire process with **CodeW
 ---
 
 ## 🤔 Completed the C language course? 
-**[Start DSA in C!](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)**
+**[Click Here to Start DSA in C!](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)**
 
 ---
 
