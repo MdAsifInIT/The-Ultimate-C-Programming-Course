@@ -96,6 +96,9 @@ You can follow along with this project and learn the entire process with **CodeW
 
 - **[Download the Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet/)**
 
+Completed the C language course? **[Start DSA in C now!](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)**
+
+
 ---
 
 Experience is the name everyone gives to their mistakes. – Oscar Wilde
