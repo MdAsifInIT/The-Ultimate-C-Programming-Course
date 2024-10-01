@@ -7,7 +7,7 @@ I'm diving into the fundamentals of **C programming**, covering everything from 
 - 📄 Handbook, audiobook & cheat sheets
 - 📝 Tips and tricks
 
-> **Note:** This repository is intended for personal reference.
+> **Note:** This repository is intended for self reference.
 
 ---
 
