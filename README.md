@@ -98,8 +98,10 @@ You can follow along with this project and learn the entire process with **CodeW
 
 ---
 
-## 🤔 Completed the C language course? 
-**[Click Here to Start DSA in C!](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)**
+## 🤔 What Next? 
+Completed the C language course and wondering what to do next?
+
+- **[Click Here to Start DSA in C!](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)**
 
 ---
 
